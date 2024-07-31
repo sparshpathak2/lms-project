@@ -58,7 +58,7 @@ export const CategoryForm = ({ initialData, courseId, options }: CategoryFormPro
             router.refresh();
         } catch {
             // console.log("Something went wrong")
-            toast.error("Something went wrong")
+            toast.error("Something went wrongsssss")
         }
     }
 
